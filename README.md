@@ -1,16 +1,34 @@
-# spotify
+# 🎵 Spotify Clone  
 
-A new Flutter project.
+A **Spotify-inspired music streaming app** built with **Flutter** and **Dart**, designed for a smooth music experience.  
+This project integrates **Firebase** for authentication and backend services, uses **GetIt** for dependency injection, and is based on **Figma** designs.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features  
 
-A few resources to get you started if this is your first Flutter project:
+- 🎶 Spotify-like modern UI (designed in Figma)  
+- 🔑 Firebase Authentication (Login, Signup, Logout)  
+- 📂 Cloud Firestore Database & Storage  
+- 🎧 Music Playback (stream & control)  
+- 🔍 Search for songs, artists, playlists  
+- ❤️ Like & Save playlists  
+- ⚡ Clean architecture with GetIt (Dependency Injection)  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack  
+
+- **Frontend:** Flutter (Dart)  
+- **Backend & Auth:** Firebase  
+- **State Management / DI:** GetIt  
+- **Design:** Figma  
+
+---
+
+## 📦 Getting Started  
+
+### 1. Clone the repo  
+```bash
+git clone https://github.com/your-username/spotify-clone.git
+cd spotify-clone
